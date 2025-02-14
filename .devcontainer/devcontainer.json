@@ -1,5 +1,5 @@
 {
-    "image": "ghcr.io/srl-labs/containerlab/devcontainer-dood:latest",
+    "image": "ghcr.io/srl-labs/clab:latest",
     "forwardPorts": [
         50080,
         5001
